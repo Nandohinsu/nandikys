@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <base href="/">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui, viewport-fit=cover">
+    <title>Porter Robinson SMILE! :D</title>
+    <meta name="description" content="The Official Porter Robinson Website">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EB8295D1JR"></script>
+    <script> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-EB8295D1JR'); </script>
+    <!-- End Google Tag Manager -->
+
+    <meta property="og:url" content="https://porterrobinson.com">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Porter Robinson SMILE! :D">
+    <meta property="og:description" content="The Official Porter Robinson Website">
+    <meta property="og:image" content="https://porterrobinson.com/assets/meta/porter-robinson-share.jpg">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://porterrobinson.com">
+    <meta property="twitter:title" content="Porter Robinson SMILE! :D">
+    <meta property="twitter:description" content="The Official Porter Robinson Website">
+    <meta property="twitter:image" content="https://porterrobinson.com/assets/meta/porter-robinson-share.jpg">
+    <link rel="icon" type="image/svg+xml" href="https://porterrobinson.com/assets/meta/favicon321.jpg">
+    <style type="text/css">@font-face{font-family:"NBArchitektStdNeue-Regular";src:url(assets/fonts/NBArchitektStdNeue-Regular.woff2)format("woff2"),url(assets/fonts/NBArchitektStdNeue-Regular.woff)format("woff"),url(assets/fonts/NBArchitektStdNeue-Regular.otf)format("opentype");font-style:normal;font-weight:400}@font-face{font-family:"PPPangramSansRoundedSmbold";src:url(assets/fonts/PPPangramSansRounded-Semibold.woff2)format("woff2"),url(assets/fonts/PPPangramSansRounded-Semibold.woff)format("woff");font-weight:600;font-style:normal;font-display:swap}@font-face{font-family:"PPPangramSansRoundedCompact";src:url(assets/fonts/PPPangramSansRounded-CompactRegular.woff2)format("woff2"),url(assets/fonts/PPPangramSansRounded-CompactRegular.woff)format("woff");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:"PPPangramSansRoundedBold";src:url(assets/fonts/PPPangramSansRounded-Bold.woff2)format("woff2"),url(assets/fonts/PPPangramSansRounded-Bold.woff)format("woff");font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:"PCMyungjo";src:url(assets/fonts/JCsmPC.woff2)format("woff2"),url(assets/fonts/JCsmPC.woff)format("woff");font-weight:400;font-style:normal;font-display:swap}#Stage,body,html{margin:0;padding:0;width:100%;height:100%;overflow:hidden;-ms-content-zooming:none;-ms-touch-action:none;touch-action:none;background:#f57eb6;font-family:"PCMyungjo"}.FXScroll,.scrollElement{-webkit-text-size-adjust:none;touch-action:pan-y}.ios,.ios #Stage,.ios body{overflow:visible}.ios,.mob{position:relative;height:100vh}.GLA11y,.feature-detects{position:absolute;width:0;clip:rect(0 0 0 0)}.GLA11y{height:100%;overflow:hidden}#Stage,#Stage *,body,html{user-select:none;-webkit-user-select:none;-ms-user-select:none}#Stage,#Stage *{-moz-user-select:none;-o-user-select:none;-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:none}#Stage *,#Stage ::after,#Stage ::before{box-sizing:border-box}#Stage * input,#Stage * textarea{-moz-user-select:auto;-webkit-user-select:auto;-o-user-select:auto;-ms-user-select:auto;-webkit-tap-highlight-color:auto}.feature-detects{visibility:hidden;pointer-events:none;height:100vh}@supports (--css:variables) and (padding:env(safe-area-inset-bottom)){.feature-detects{--safe-area-inset-top:env(safe-area-inset-top);--safe-area-inset-right:env(safe-area-inset-right);--safe-area-inset-bottom:env(safe-area-inset-bottom);--safe-area-inset-left:env(safe-area-inset-left)}}.sr-only{border:0!important;clip:rect(1px,1px,1px,1px)!important;-webkit-clip-path:inset(50%)!important;clip-path:inset(50%)!important;height:1px!important;margin:-1px!important;overflow:hidden!important;padding:0!important;position:absolute!important;width:1px!important;white-space:nowrap!important;top:0;left:0}</style>
+    <script>
+        (function() {
+            window._UNSUPPORTED_PAGE_ = 'unsupported.html';
+
+            try {
+                eval('let obj = {}; obj?.prop');
+            } catch (e) {
+                window.location.replace(window._UNSUPPORTED_PAGE_);
+                return;
+            }
+
+            window._CONFIG_ = '{"ENV":"production","SERVERTIME_API":"https://us-central1-dreamwave-services.cloudfunctions.net/timestamp","GEO_API":"https://us-central1-dreamwave-live.cloudfunctions.net/geo","CMS":"https://storage.googleapis.com/porter-a3.appspot.com"}';
+            window._CACHE_ = '1780453105742';
+            window.UIL_STATIC_PATH = 'assets/data/uil.1780453105742.json';
+            var p = 'app';
+            var s = 'assets/js/' + p + '.' + window._CACHE_ + '.js';
+            var h = document.head;
+            var e = document.createElement('link');
+            e.href = s;
+            e.rel = 'preload';
+            e.as = 'script';
+            h.appendChild(e);
+            e = document.createElement('script');
+            e.src = s;
+            e.async = true;
+            h.appendChild(e);
+        })();
+    </script>
+
+    <!-- Meta Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s);
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '493967061521902');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=493967061521902&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
+    <!-- Live Nation Off-Site Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '336617377178130');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=336617377178130&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<!-- Live Nation Canada - Pixel (LNC) Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '386920928936604');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=386920928936604&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+ttd_dom_ready( function() {
+    if (typeof TTDUniversalPixelApi === 'function') {
+        var universalPixelApi = new TTDUniversalPixelApi();
+        universalPixelApi.init("wed77s2", ["q684oyg"], "https://insight.adsrvr.org/track/up");
+    }
+});
+</script>
+
+<script src=“https://js.adsrvr.org/up_loader.1.1.0.js” type=“text/javascript”></script>
+<script type=“text/javascript”>
+ttd_dom_ready( function() {
+if (typeof TTDUniversalPixelApi === ‘function’) {
+var universalPixelApi = new TTDUniversalPixelApi();
+universalPixelApi.init(“w905znw”, [“x5bdt2r”], “https://insight.adsrvr.org/track/up”);
+}
+});
+</script>
+
+<!-- Start Universal Pixel Snippet -->
+<script>
+!function(e,t,n,a,i,l,o,s,r){e[i]||(o=e[i]=function(){o.process?o.process.apply(o,arguments):o.queue.push(arguments)},o.queue=[],o.t=1*new Date,s=t.createElement(n),s.async=1,s.src=a+"?t="+Math.ceil(new Date/l)*l,r=t.getElementsByTagName(n)[0],r.parentNode.insertBefore(s,r))}(window,document,"script","//tracking.aegpresents.com/universalpixel/universalpixel.js","kl",864e5),kl("event","pageload");
+</script>
+<!-- End Universal Pixel Snippet -->
+    
+</head>
+<body>
+    <noscript>
+        <p style="background: black; color: white; font-size: 20px; display: inline; font-family: Helvetica, Arial, sans-serif; padding: 10px;">Please enable javascript</p>
+    </noscript>
+</body>
+
+</html>
