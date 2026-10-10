@@ -227,8 +227,13 @@
             }
 
             window._CONFIG_ = '{"ENV":"production","SERVERTIME_API":"https://us-central1-dreamwave-services.cloudfunctions.net/timestamp","GEO_API":"https://us-central1-dreamwave-live.cloudfunctions.net/geo","CMS":"assets"}';
+<<<<<<< HEAD
             window._CACHE_ = '1780453105742';
             window.UIL_STATIC_PATH = 'assets/data/uil.1780453105742.json';
+=======
+            window._CACHE_ = '1780453105743';
+            window.UIL_STATIC_PATH = 'assets/data/uil.1780453105743.json';
+>>>>>>> 9ef2609d71f2c0b24e4d908c605563f790441f7b
             var p = 'app';
             var s = 'assets/js/' + p + '.' + window._CACHE_ + '.js';
             var h = document.head;
@@ -385,6 +390,43 @@ universalPixelApi.init(“w905znw”, [“x5bdt2r”], “https://insight.adsrvr
             z-index: 999999;
         }
     </style>
+<<<<<<< HEAD
+=======
+
+    <!-- NANDIKY GAME CUSTOMIZATION -->
+    <style>
+      #nandiky-game-relief {
+        position: fixed;
+        left: 50%;
+        top: 67%;
+        width: min(22vw, 260px);
+        min-width: 150px;
+        height: auto;
+        transform: translate(-50%, -50%);
+        z-index: 999999;
+        pointer-events: none;
+        opacity: 0;
+        filter: drop-shadow(0 2px 1px rgba(255,255,255,.28)) drop-shadow(2px 3px 2px rgba(0,0,0,.75));
+        transition: opacity .25s ease;
+      }
+      #nandiky-game-relief.nandiky-visible { opacity: .72; }
+      @media (max-width: 700px) {
+        #nandiky-game-relief { width: min(38vw, 220px); top: 68%; }
+      }
+    </style>
+    <img id="nandiky-game-relief" src="assets/images/nandiky-game-relief.png" alt="Nandiky Game">
+    <script>
+      (function(){
+        function showNandikyGame(){
+          var el=document.getElementById('nandiky-game-relief');
+          if(el) el.classList.add('nandiky-visible');
+        }
+        window.addEventListener('pointerdown', function(){ setTimeout(showNandikyGame, 650); }, {once:true, passive:true});
+        window.addEventListener('touchstart', function(){ setTimeout(showNandikyGame, 650); }, {once:true, passive:true});
+      })();
+    </script>
+    <!-- /NANDIKY GAME CUSTOMIZATION -->
+>>>>>>> 9ef2609d71f2c0b24e4d908c605563f790441f7b
 </head>
 
 <body>
@@ -677,6 +719,7 @@ universalPixelApi.init(“w905znw”, [“x5bdt2r”], “https://insight.adsrvr
                 </div>
             </div>
         </div>
+<<<<<<< HEAD
 
     <!-- Nandiky fallback: keeps the start prompt visible if the 3D text mesh fails to render -->
     <div id="nandiky-press-to-begin" aria-hidden="true">PRESS TO BEGIN!</div>
@@ -719,6 +762,8 @@ universalPixelApi.init(“w905znw”, [“x5bdt2r”], “https://insight.adsrvr
       })();
     </script>
 
+=======
+>>>>>>> 9ef2609d71f2c0b24e4d908c605563f790441f7b
     </div><iframe id="universal_pixel_q684oyg" height="0" width="0" hidden=""
         src="./Porter Robinson, sorria! _D_files/cei(1).html" title="Pixel Universal TTD"></iframe><iframe
         id="universal_pixel_55rk4fk" height="0" width="0" hidden=""
